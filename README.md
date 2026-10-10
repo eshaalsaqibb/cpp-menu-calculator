@@ -33,7 +33,6 @@ A basic C++ menu based calculator.
 
 ## Future Improvements
 - Handle modulus when the second number is 0
-- Fix the "Return to menu" option so it goes back to the menu instead of closing the program
 - Show a message for invalid menu choices
 - Use a `switch` statement instead of multiple `if` statements
 - Move each operation into its own function
